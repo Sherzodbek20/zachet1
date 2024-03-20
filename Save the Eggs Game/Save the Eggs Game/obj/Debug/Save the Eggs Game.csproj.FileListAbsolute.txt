@@ -1,0 +1,42 @@
+D:\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+D:\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+D:\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+D:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+C:\Users\student\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.SuggestedBindingRedirects.cache
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+T:\Karsakov D.A. ОС-37\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb
+E:\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+E:\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+E:\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+E:\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb
