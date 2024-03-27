@@ -97,62 +97,7 @@ this.Controls.Add(splash);
             }
         }
 
-        private void KeyIsDown(object sender, KeyEventArgs e)
-        {
-
-            if (e.KeyCode == Keys.Left)
-            {
-                goLeft = true;
-            }
-            if (e.KeyCode == Keys.Right)
-            {
-                goRight = true;
-            }
-
-
-
-        }
-
-        private void KeyIsUp(object sender, KeyEventArgs e)
-        {
-
-            if (e.KeyCode == Keys.Left)
-            {
-                goLeft = false;
-            }
-            if (e.KeyCode == Keys.Right)
-            {
-                goRight = false;
-            }
-        }
-
-        private void txtMiss_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void RestartGame()
-        {
-
-            foreach(Control x in this.Controls) 
-            {
-                 if (x is PictureBox && (string)x.Tag == "eggs")
-                {
-                    x.Top = randY.Next(80, 300) * -1;
-                    x.Left = randX.Next(6, this.ClientSize.Width - x.Width);
-                }
-            
-            }
-
-            player.Left = this.ClientSize.Width / 2;
-            player.Image = Properties.Resources.chicken_normal;
-
-            score = 0;
-            missed = 0;
-            speed = 8;
-
-            goLeft = false; 
-            goRight = false;
+       
 
             GameTimer.Start();
 
